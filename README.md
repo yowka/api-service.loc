@@ -46,3 +46,4 @@ SESSION_DRIVER=file
 ```shell
 php artisan storage:link
 ```
+7.)))
